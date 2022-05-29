@@ -1,0 +1,25 @@
+{
+  "name": "custom-discord-presence",
+  "version": "1.2.8",
+  "description": "A local custom Discord rich presence.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DysphoricGreens/Custom-Discord-Presence.git"
+  },
+  "keywords": [
+    "discord",
+    "javascript",
+    "presence",
+    "command-prompt"
+  ],
+  "author": "DysphoricGreens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DysphoricGreens/Custom-Discord-Presence/issues"
+  },
+  "homepage": "https://github.com/DysphoricGreens/Custom-Discord-Presence#readme"
+}
